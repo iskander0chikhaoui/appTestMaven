@@ -11,7 +11,7 @@ package com.mycompany.apptestmaven;
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("Hello Espritt");
+        System.out.println("Hhello Espritt");
     }
 
     
